@@ -1,9 +1,9 @@
 <div align="center">
 
-## Welcome!
+# Thanks for visiting!
 
 🚙 Currently travelling the country with my wife and cat  
-🌱 Quickly developing my skills at UNH Coding Bootcamp  
+🌱 Quickly developing an abundance of skills at UNH Coding Bootcamp  
 
 ⬇️ Check out some of my projects below ⬇️
 
