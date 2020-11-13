@@ -1,7 +1,6 @@
 <div align="center">
 
-# Thanks for visiting!
-
+# Welcome!
 🚙 Currently travelling the country with my wife and cat  
 🌱 Quickly developing an abundance of skills at UNH Coding Bootcamp  
 
