@@ -1,8 +1,10 @@
 <div align="center">
 
 # Welcome!
-🚙 Currently travelling the country with my wife and cat  
-🌱 Quickly developing an abundance of skills at UNH Coding Bootcamp  
+
+📚 Quickly developing an abundance of skills at UNH Coding Bootcamp  
+⚙️ Currently working on a note-taking app & building a JS card game  
+🚙 Travelling the country with my wife and cat  
 
 ⬇️ Check out some of my projects below ⬇️
 
