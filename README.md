@@ -3,10 +3,10 @@
 # Welcome!
 
 📚 Quickly developing an abundance of skills at UNH Coding Bootcamp  
-⚙️ Currently working on a note-taking app & building a JS card game  
-🚙 Travelling the country with my wife and cat  
+⚙️ Currently working on a note-taking app & building a JS Cribbage game  
+🚙 Travelling the country with my superhero of a wife & potato of a cat  
 
-⬇️ Check out some of my projects below ⬇️
+⬇️ Check out some of my projects below! ⬇️
 
 </div>
 <!--
