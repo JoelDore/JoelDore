@@ -3,7 +3,7 @@
 # Welcome!
 
 📚 Quickly developing an abundance of skills at UNH Coding Bootcamp  
-⚙️ Currently working on a note-taking app & building a JavaScript Cribbage game  
+⚙️ Currently learning Handlebars & building a JavaScript card game  
 🚙 Travelling the country with my superhero of a wife 🏥  
 
 ⬇️ Check out some of my projects below! ⬇️
