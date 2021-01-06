@@ -1,18 +1,4 @@
-<!-- <div style="position:absolute; 
-    background-image: url(bg-img.jfif); 
-    background-size: contain;
-    background-repeat: no-repeat;
-    width: 100%;
-    height: 0; 
-    padding-top:67%; 
-    background-blend-mode: multiply">
-</div> -->
-
-<div style="background-image: url(bg-img.jfif); 
-    background-size: cover;
-    background-repeat: no-repeat;
-    padding:2rem" 
-    align="center">
+<div style="background-image: url(bg-img.jfif); background-size: cover; padding:2rem" align="center">
 
 # Welcome!
 
