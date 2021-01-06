@@ -1,6 +1,6 @@
-<img style="position:absolute" src="bg-img.jfif"/>
+<img style="position: absolute" src="bg-img.jfif"/>
 
-<div style="position:relative; padding:2rem" align="center">
+<div style="position: absolute; top: 0; left: 0; padding: 2rem" align="center">
 
 # Welcome!
 
