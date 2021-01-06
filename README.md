@@ -1,5 +1,6 @@
-<div style="position:absolute; background-image: url(bg-img.jfif); background-size: cover;" align="center"></div>
-<div style="padding:2rem" align="center">
+<img style="position:absolute" src="bg-img.jfif"/>
+
+<div style="position:relative; padding:2rem" align="center">
 
 # Welcome!
 
