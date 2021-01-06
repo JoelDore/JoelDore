@@ -1,4 +1,4 @@
-<div align="center">
+<div style="background-image: url(bg-img.jfif); background-size: cover; padding:2rem" align="center">
 
 # Welcome!
 
