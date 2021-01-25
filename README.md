@@ -2,11 +2,11 @@
 
 # Welcome!
 
-📖 Quickly developing an abundance of skills at UNH Coding Bootcamp  
-🧪 Currently learning Sequelize & building a JavaScript card game  
-🚙 Travelling the country with my superhero of a wife 🏥  
+🧰 Quickly developing an abundance of skills at UNH Coding Bootcamp  
+🧪 Currently learning MongoDB/Mongoose  <!-- & building a JavaScript card game  -->  
+:bowtie: Looking for full-time work - NH seacoast area or remote - April 2021
 
-⬇️ Check out some of my work below! ⬇️
+⬇️ Check out some of my work below ⬇️
 
 </div>
 
