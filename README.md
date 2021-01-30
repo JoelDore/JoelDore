@@ -3,7 +3,8 @@
 # Welcome!
 
 🧰 Quickly developing an abundance of skills at UNH Coding Bootcamp  
-🧪 Currently learning MongoDB/Mongoose  <!-- & building a JavaScript card game  -->  
+🧪 Currently learning Mongoose  <!-- & building a JavaScript card game  -->  
+
 :bowtie: Looking for full-time work - NH seacoast area or remote - April 2021  
 -- Connect on [LinkedIn](https://www.linkedin.com/in/joeldore/) --  
 
