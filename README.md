@@ -2,13 +2,16 @@
 
 # Welcome!
 
-🧰 Quickly developing an abundance of skills at UNH Coding Bootcamp  
+🧰 Developing an abundance of skills in UNH's Coding Bootcamp  
 ⚛️ Currently learning React  <!-- & building a JavaScript card game  -->  
 
-:bowtie: Looking for full-time work - Seacoast NH or remote - April 2021  
--- Connect on [LinkedIn](https://www.linkedin.com/in/joeldore/) --  
+:bowtie: Looking for full-time work  
+Seacoast NH/remote  
+April 2021  
 
-⬇️ Check out some of my work below ⬇️
+🔗 Connect on [LinkedIn](https://www.linkedin.com/in/joeldore/)  
+
+⬇️ Check out my work below ⬇️
 
 </div>
 
