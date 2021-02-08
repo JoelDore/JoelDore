@@ -7,7 +7,6 @@
 
 :bowtie: Looking for full-time work  
 Seacoast NH/remote  
-April 2021  
 
 🔗 Connect on [LinkedIn](https://www.linkedin.com/in/joeldore/)  
 
