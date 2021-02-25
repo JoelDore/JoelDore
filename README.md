@@ -5,9 +5,6 @@
 🧰 Developing an abundance of skills in UNH's Coding Bootcamp  
 ⚛️ Currently learning React  <!-- & building a JavaScript card game  -->  
 
-:bowtie: Looking for full-time work  
-Seacoast NH/remote  
-
 🔗 Connect on [LinkedIn](https://www.linkedin.com/in/joeldore/)  
 
 ⬇️ Check out my work below ⬇️
