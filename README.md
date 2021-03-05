@@ -3,7 +3,7 @@
 # Welcome!
 
 🧰 Developing an abundance of skills in UNH's Coding Bootcamp  
-⚛️ Currently learning React  <!-- & building a JavaScript card game  -->  
+⚛️ Currently building a movie app with MERN stack & TMDB [API](https://www.themoviedb.org/documentation/api)
 
 🔗 Connect on [LinkedIn](https://www.linkedin.com/in/joeldore/)  
 
