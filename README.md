@@ -1,10 +1,9 @@
 <div align="center">
 
 # Welcome!
-<div align="left">
+<div align="right">
   
 ###### 🔗 Connect on [LinkedIn](https://www.linkedin.com/in/joeldore/)  
-
 </div>
 
 <!-- ⚛️ Currently building a movie app with MERN stack & TMDB [API](https://www.themoviedb.org/documentation/api) -->
