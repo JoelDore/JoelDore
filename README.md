@@ -10,6 +10,7 @@
 
 <details>
   <summary>Coding soundtrack 🎵</summary>
+  <br />
   
   ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=094ictu4e47qbkj33yywbz0jd&count=3)
 </details>
