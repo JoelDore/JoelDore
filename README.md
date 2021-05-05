@@ -9,7 +9,7 @@
 ![Joel Dore's GitHub stats](https://github-readme-stats.vercel.app/api?username=joeldore&show_icons=true&theme=algolia&hide=stars,issues)
 
 <details>
-  <summary>Coding soundtrack 🎵</summary>
+  <summary>🎵 Today's coding soundtrack:</summary>
   <br />
   
   ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=094ictu4e47qbkj33yywbz0jd&count=3)
