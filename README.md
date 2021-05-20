@@ -9,13 +9,14 @@
 ![Joel Dore's GitHub stats](https://github-readme-stats.vercel.app/api?username=joeldore&show_icons=true&theme=algolia&hide=stars,issues)
 
 <details>
-  <summary>🎵 Today's coding soundtrack:</summary>
+  <summary>🎵 I love music! See what I've been listening to:</summary>
   <br />
   
   ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=094ictu4e47qbkj33yywbz0jd&count=3)
 </details>
 
-⬇️ Check out some of my work below ⬇️
+🖋️ Check out some fun mini-projects on my [Codepen](https://codepen.io/JoelDore) 
+⬇️ And my full-scale professional projects below ⬇️
 
 </div>
 
