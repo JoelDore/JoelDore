@@ -15,7 +15,8 @@
   ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=094ictu4e47qbkj33yywbz0jd&count=3)
 </details>
 
-🖋️ Check out some fun mini-projects on my [Codepen](https://codepen.io/JoelDore) 
+🖋️ Check out some fun mini-projects on my [Codepen](https://codepen.io/JoelDore)  
+  
 ⬇️ And my full-scale professional projects below ⬇️
 
 </div>
